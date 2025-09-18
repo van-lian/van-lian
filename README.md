@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Vanness Christian, and currently majoring in Data Science at Binus University<br>Goal: By 25 I can travel all over Japan
+Hi I'm Vanness Christian, and currently majoring in Data Science at Binus University. also a Data Enthuisiast<br>Goal: By 25 I can travel all over Japan
 
 
 ## 🌐 Socials:
